@@ -235,7 +235,7 @@ preposition_nl = (
 		"|voorbij|wegens|zonder")
 pronoun_nl = (
 		# persoonlijk voornaamwoord
-		"ik|jij|je|u|hij|hem|zij|ze|haar|het"
+		"ik|jij|je|u|hij|hem|ie|zij|ze|haar|het"
 		"|wij|we|ons|jullie|hen|hun"
 		# wederkerend voornaamwoord
 		"mij|me|mijzelf|mezelf|je|jezelf|uzelf"
