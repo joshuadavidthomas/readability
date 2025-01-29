@@ -238,11 +238,11 @@ pronoun_nl = (
 		"ik|jij|je|u|hij|hem|ie|zij|ze|haar|het"
 		"|wij|we|ons|jullie|hen|hun"
 		# wederkerend voornaamwoord
-		"mij|me|mijzelf|mezelf|je|jezelf|uzelf"
+		"|mij|me|mijzelf|mezelf|je|jezelf|uzelf"
 		"|zich|zichzelf|haarzelf|onszelf"
 		"|elkaar|elkaars|elkander|elkanders|mekaar|mekaars"
 		# pers. vnw: archaisch
-		"gij|ge"
+		"|gij|ge"
 		"|mijnen|deinen|zijnen|haren|onzen|uwen|hunnen|haren"
 		"|mijner|deiner|zijner|harer|onzer|uwer|hunner|harer"
 		"|mijnes|deines|zijnes|hares|onzes|uwes|hunnes|hares")
